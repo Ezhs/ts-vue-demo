@@ -31,7 +31,7 @@ const MAX_SCALE = 2;
 const MIN_SCALE = 0.1;
 const STEP_SCALE = 0.1 ;
 
-console.log(123332222) ;
+console.log(123332222222) ;
 export default {
   name: 'OrgTree',
   components: {
