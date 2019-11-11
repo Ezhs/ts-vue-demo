@@ -29,7 +29,7 @@ import NP from 'number-precision';
 
 const MAX_SCALE = 2;
 const MIN_SCALE = 0.1;
-const STEP_SCALE = 0.1;
+const STEP_SCALE = 0.1 ;
 
 console.log(123);
 export default {
